@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi there, I'm Willie 👋 
 
-<!--
-**Willie548/Willie548** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧬 Computational Biologist & Cancer Researcher
+*Leveraging machine learning, Python pipelines, and high-dimensional data analysis to decode spatial biology.*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table border="0">
+  <tr>
+    <td width="60%" valign="top">
+      
+      ### 🔬 Core Research & Focus
+      * **Spatial Biology & Tissue Architecture:** Developing pipelines for multiplexed imaging data, cell phenotyping, and spatial neighborhood analysis.
+      * **High-Dimensional Data Analysis:** Building self-supervised and unsupervised models to extract patterns from high-plex single-cell datasets.
+      * **Open Science & Tools:** Crafting intuitive Python-based visualization and analysis tools for complex oncology datasets.
+
+      ### 🚀 Active Projects
+      * 📊 **[Project Name/Iris]** — A spatial biology tool designed for multi-sample comparison and interactive cell phenotype mapping.
+      * 🧠 **[Project Name]** — A self-supervised contrastive learning pipeline for marker-based cellular phenotyping without manual gating.
+      * 📑 **[Project/OER Name]** — Contributing to accessible, open-education resources bridging pathology and data science.
+
+    </td>
+    
+    <td width="40%" valign="top" align="center">
+      
+      ### ⚡ GitHub Metrics
+      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true" width="100%" alt="GitHub Stats" />
+      
+      <br/>
+      
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&langs_count=6" width="100%" alt="Top Languages" />
+
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Computational Toolbox
+
+| Category | Technologies & Frameworks |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
+| **Data & ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
+| **Spatial & Bio** | ![Scanpy](https://img.shields.io/badge/Scanpy-Lightgrey?style=flat-square) `Anndata` `Spatial-Analysis` `High-Plex-Imaging` |
+| **Visualization** | ![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=flat-square) `napari` `Seaborn` |
+| **DevOps & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+
+---
+
+### 📈 Activity Dashboard
+![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@domain.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
