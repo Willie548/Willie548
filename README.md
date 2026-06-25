@@ -1,14 +1,14 @@
 # Hi there, I'm Willie 👋 
 
 ### 🧬 Computational Biologist & Cancer Researcher | Enfield Lab, BC Cancer Research Institute
-*Developing machine learning architectures, deep learning pipelines, and computational tools to decode high-dimensional spatial biology and tumor microenvironments.*
+*Developing machine learning pipelines, and computational tools to decode high-dimensional spatial biology and tumor microenvironments.*
 
 ## 🔬 About My Work
 I bridge the gap between complex, high-plex imaging datasets and translational oncology. My work focuses on building robust, scalable Python pipelines to handle high-dimensional single-cell data, optimizing cell phenotyping without manual gating constraints, and uncovering the hidden spatial architecture of tissues to better predict clinical outcomes. 
 
 * 🛸 **Spatial Architecture:** Mapping cell-to-cell spatial neighborhoods and multiplexed immunofluorescence (mIF) data.
-* 🧠 **Unsupervised & Self-Supervised Learning:** Designing contrastive and representation learning pipelines tailored for high-dimensional single-cell datasets.
-* 🌐 **Open Science:** Championing knowledge dissemination through interactive visualization software and open-educational toolkits.
+* 🧠 **Unsupervised & Self-Supervised Learning:** Designing contrastive and representation learning pipelines tailored for high-dimensional single-cell spatial proteomics datasets.
+* 🌐 **Open Science:** Contributing to knowledge dissemination through interactive visualization software and open-educational toolkits.
 
 ## 🚀 Active Projects
 
