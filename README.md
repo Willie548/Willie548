@@ -36,7 +36,9 @@ I am always open to discussing open-source tooling, spatial omics data structure
 | **Visualization** | ![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square) ![napari](https://img.shields.io/badge/napari-322A5C?style=flat-square) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)|
 | **DevOps & Environment** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
 
+<!-- 
 ## 📊 Insights & Metrics
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" width="50%" alt="GitHub Streak" />
 </p>
+-->
