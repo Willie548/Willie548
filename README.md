@@ -1,23 +1,33 @@
 # Hi there, I'm Willie 👋 
 
 ### 🧬 Computational Biologist & Cancer Researcher | Enfield Lab, BC Cancer Research Institute
-*Developing machine learning pipelines, and computational tools to decode high-dimensional spatial biology and tumor microenvironments.*
+*Developing machine learning pipelines, and computational tools to decode high-dimensional spatial biology and tumor microenvironments in lung cancer.*
 
 ## 🔬 About My Work
 I bridge the gap between complex, high-plex imaging datasets and translational oncology. My work focuses on building robust, scalable Python pipelines to handle high-dimensional single-cell data, optimizing cell phenotyping without manual gating constraints, and uncovering the hidden spatial architecture of tissues to better predict clinical outcomes. 
+* **Spatial Architecture:** Mapping cell-to-cell spatial neighborhoods and multiplexed immunofluorescence (mIF) data.
+* **Unsupervised & Self-Supervised Learning:** Designing contrastive and representation learning pipelines tailored for high-dimensional single-cell spatial proteomics datasets.
+* **Open Science:** Contributing to knowledge dissemination through interactive visualization software and open-educational toolkits.
 
-* 🛸 **Spatial Architecture:** Mapping cell-to-cell spatial neighborhoods and multiplexed immunofluorescence (mIF) data.
-* 🧠 **Unsupervised & Self-Supervised Learning:** Designing contrastive and representation learning pipelines tailored for high-dimensional single-cell spatial proteomics datasets.
-* 🌐 **Open Science:** Contributing to knowledge dissemination through interactive visualization software and open-educational toolkits.
+### 🏫 Affiliations & Education
+* **Master of Science in Interdisciplinary Oncology** — BC Cancer Research Institute / University of British Columbia
+* **Bachelor of Medical Laboratory Science** — University of British Columbia
+
+### 🏆 Honors & Major Awards
+* **Canada Graduate Research Scholarship – Master’s (CGRS M)**
+* **Nettie Polischuk Memorial Cancer Research Award**
+
+### 🤝 Research Collaboration
+I am always open to discussing open-source tooling, spatial omics data structures, and novel machine learning applications in oncology and computation analysis!
+* **Ask me about:** Multiplexed immunofluorescence (mIF) analysis, spatial proteomics/transcriptomics analysis.
+* **Looking to collaborate on:** Open-science tools that make spatial biology pipelines more accessible to clinical researchers.
 
 ## 🚀 Active Projects
-
-* 📊 **[IRIS]** — A spatial biology software project designed for multi-sample comparison, grid alignment, and interactive cell phenotype mapping across complex tissue datasets.
-* 🧠 **[Cell Phenotyping Pipeline]** — A self-supervised contrastive learning framework utilizing prototype representational learning for high-plex marker expression analysis without manual gating.
-* 📑 **[Open Education Resource (OER)]** — Contributing to accessible digital textbook architectures and interactive content for [*Pathology: From the Tissue Level to Clinical Manifestations and Inter-professional Care*](https://pressbooks.bccampus.ca/pathology/).
+* **[IRIS]** — A spatial biology software project designed for multi-sample comparison, grid alignment, and interactive cell phenotype mapping across complex tissue datasets.
+* **[Cell Phenotyping Pipeline]** — A self-supervised contrastive learning framework utilizing prototype representational learning for high-plex marker expression analysis without manual gating.
+* **[Open Education Resource (OER)]** — Contributing to accessible digital textbook architectures and interactive content for [*Pathology: From the Tissue Level to Clinical Manifestations and Inter-professional Care*](https://pressbooks.bccampus.ca/pathology/).
 
 ## 🛠️ Computational Toolbox
-
 | Category | Technologies, Libraries & Frameworks |
 | :--- | :--- |
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
@@ -27,7 +37,6 @@ I bridge the gap between complex, high-plex imaging datasets and translational o
 | **DevOps & Environment** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
 
 ## 📊 Insights & Metrics
-
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" width="50%" alt="GitHub Streak" />
 </p>
