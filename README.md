@@ -18,7 +18,7 @@ I bridge the gap between complex, high-plex imaging datasets and translational o
 * **Nettie Polischuk Memorial Cancer Research Award**
 
 ### 🤝 Research Collaboration
-I am always open to discussing open-source tooling, spatial omics data structures, and novel machine learning applications in oncology and computation analysis!
+I am always open to discussing open-source tooling, spatial omics data structures, and novel machine learning applications in oncology and computational analysis!
 * **Ask me about:** Multiplexed immunofluorescence (mIF) analysis, spatial proteomics/transcriptomics analysis.
 * **Looking to collaborate on:** Open-science tools that make spatial biology pipelines more accessible to clinical researchers.
 
