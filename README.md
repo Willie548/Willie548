@@ -1,6 +1,6 @@
 # Hi there, I'm Willie 👋 
 
-### 🧬 Computational Biologist & Cancer Researcher | Enfield Lab, BC Cancer Research Institute
+### 🧬 Cancer Researcher | Enfield Lab, BC Cancer Research Institute
 *Developing machine learning pipelines, and computational tools to decode high-dimensional spatial biology and tumor microenvironments in lung cancer.*
 
 ## 🔬 About My Work
